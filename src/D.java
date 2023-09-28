@@ -13,4 +13,8 @@ public class D {
     public void MD3() {
         System.out.println("Nome do método: MD3()");
     }
+    
+    public void MD4() {
+        System.out.println("Nome do método: MD4()");
+    }
 }
