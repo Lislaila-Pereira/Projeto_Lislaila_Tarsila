@@ -25,4 +25,8 @@ public class C {
     public void MC2() {
         System.out.println("Método MC2() da Classe C");
     }
+
+    public void MC3() {
+        System.out.println("Nome do método: MC3()");
+    }
 }
